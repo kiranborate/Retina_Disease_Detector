@@ -1,4 +1,4 @@
-
+<img width="1680" height="764" alt="image" src="https://github.com/user-attachments/assets/280c84b3-ae74-481b-9e7c-e6a2583f7464" />
 
 👁️ Retina Disease Detector
 
@@ -64,17 +64,32 @@ Evaluation Metrics: Accuracy, Loss
 
 📸 Screenshots
 
-User interface(Homepage) image image image image image image
+User interface(Homepage) 
+<img width="1680" height="764" alt="image" src="https://github.com/user-attachments/assets/ea19fd8f-6052-48cc-924a-608bec4aee83" />
+<img width="1919" height="855" alt="image" src="https://github.com/user-attachments/assets/559cf654-deda-4a2c-b9d6-a6a95524df02" />
+<img width="1917" height="949" alt="image" src="https://github.com/user-attachments/assets/99746207-c321-42db-8703-b624e795f69b" />
+<img width="1917" height="866" alt="image" src="https://github.com/user-attachments/assets/b8f9ddb1-33f4-43f1-bf6e-c15b4e15c04a" />
+<img width="1912" height="869" alt="image" src="https://github.com/user-attachments/assets/7041a826-affc-4652-a5da-102b95428742" />
 
-Login Page image Create account image
+Login Page 
+<img width="1916" height="868" alt="image" src="https://github.com/user-attachments/assets/e2012dfc-c36c-43bb-8372-83612e94d3d0" />
 
-Patient Dashboard image image image
+Create account image
+<img width="1885" height="856" alt="image" src="https://github.com/user-attachments/assets/8aaefd8a-cfdd-4f29-b01d-4ee9c63098b1" />
 
-Report Generation image image
+Patient Dashboard 
+
+<img width="1913" height="857" alt="image" src="https://github.com/user-attachments/assets/af09bcc1-9cbf-40c1-8adb-39a587b1c660" />
+
+Report Generation 
+<img width="1910" height="859" alt="image" src="https://github.com/user-attachments/assets/fd6fc1af-48d3-4680-9a92-e5bea818ebd4" />
+
 
 Print Feature image
+<img width="1911" height="858" alt="image" src="https://github.com/user-attachments/assets/fbeb3dfc-4cf3-4038-991c-3a6f6c90dcca" />
 
 Doctor dashboard image
+<img width="1912" height="859" alt="image" src="https://github.com/user-attachments/assets/dc8ab165-4ae5-4c00-8f94-30ce3bff0b02" />
 
 🔮 Future Enhancements
 
