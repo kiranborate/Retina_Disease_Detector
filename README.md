@@ -1,4 +1,4 @@
-<img width="1680" height="764" alt="image" src="https://github.com/user-attachments/assets/280c84b3-ae74-481b-9e7c-e6a2583f7464" />
+
 
 👁️ Retina Disease Detector
 
